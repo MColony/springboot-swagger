@@ -1,0 +1,35 @@
+{
+"id": 123,
+"schoolName": "vagdevi",
+ "address": {
+ 	"no": 345,
+ 	"streetName": "jh pantel layout",
+ 	"landMark": "big bazaar",
+ 	"city": "shimoga",
+ 	"pinCode": "577301"
+ },
+ "contactNumber": 9988675431,
+ "students": [{
+   "rollNo": vd0056,
+   "name": "sachin",
+   "age": 07,
+   "section": "1c"
+ }],
+ 
+ "teachers": [{
+   "id": t05,
+   "name": "ramya",
+   "age": 27,
+   "qualification": "bed",
+   "salary": 4500
+ }],
+ 
+"staff": [{
+   "id": s08,
+   "name": "lokesh",
+   "age": 35,
+   "qualification": "BA",
+   "salary": 3500
+ }]
+
+}
