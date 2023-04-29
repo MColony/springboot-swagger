@@ -1,4 +1,8 @@
-com\javainuse\swagger\Application.class
+com\javainuse\swagger\controller\SchoolInfoController.class
 com\javainuse\swagger\SwaggerConfig.class
+com\javainuse\swagger\service\SchoolInfoService.class
+com\javainuse\swagger\service\impl\SchoolInfoServiceImpl.class
+com\javainuse\swagger\model\SchoolInfo.class
+com\javainuse\swagger\Application.class
 com\javainuse\swagger\HelloController.class
 com\javainuse\swagger\HiController.class
