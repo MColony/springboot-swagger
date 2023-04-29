@@ -44,7 +44,7 @@ public class SchoolInfoServiceImpl implements SchoolInfoService{
 		
 		
 		//java 8 features
-		List<SchoolInfo> filteredList = list.stream().filter(schoolInfo1 -> schoolInfo1.getId() > 188).collect(Collectors.toList());
+		List<SchoolInfo> filteredList = list.stream().filter(schoolInfo1 -> schoolInfo1.getId() > 189).collect(Collectors.toList());
 		
 		
 		return schoolInfo;
